@@ -1,2 +1,2 @@
 # Guardian
-About License
+About License licence
